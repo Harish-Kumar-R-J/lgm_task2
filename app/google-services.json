@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654136413023",
+    "project_id": "lgm-task2-bd335",
+    "storage_bucket": "lgm-task2-bd335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654136413023:android:02c75a6eb61cc8b08c04ea",
+        "android_client_info": {
+          "package_name": "com.example.face_detection_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654136413023-bm3tpt7d5jg8hbqs5vmb8foig3342a07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.face_detection_app",
+            "certificate_hash": "fb548773ec8516fb30335ec99a5d1d5a29c7c00f"
+          }
+        },
+        {
+          "client_id": "654136413023-uik2v80p7s28o845o4980iqg594g0s63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhbPZlnLuyylAecjbbi0EZU_90_BUTd8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654136413023-uik2v80p7s28o845o4980iqg594g0s63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
